@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 🔭 I’m currently working on ... 
 - 🔭 I’m interested C/C++, Java, Python & Django
 - 🌱 I’m currently learning Django
