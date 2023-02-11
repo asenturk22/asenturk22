@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently student on Bilecik Şeyh Edebali Üniversitesi - Bilgisayar Mühendisliği
 - 🔭 I’m interested C/C++, Java, Python & Django
 - 🌱 I’m currently learning Django
 
